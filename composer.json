@@ -11,6 +11,11 @@
             "Breadlesscode\\NodeTypes\\Folder\\": "Classes/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Breadlesscode\\NodeTypes\\Folder\\Tests\\": "Tests/"
+        }
+    },
     "extra": {
         "neos": {
             "package-key": "Breadlesscode.NodeTypes.Folder"
